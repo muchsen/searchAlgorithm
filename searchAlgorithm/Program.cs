@@ -29,7 +29,7 @@ namespace SearchAlgorthm
             Console.WriteLine("---------------------");
             Console.WriteLine(" Enter array elements");
             Console.WriteLine("---------------------");
-            for (i = 0; i < n; i++) ;
+            for (i = 0; i < n; i++) 
             {
                 Console.WriteLine("<" + (i + 1) + ">");
                 string s1 = Console.ReadLine();
